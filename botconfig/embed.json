@@ -1,0 +1,6 @@
+{
+  "color": "#3498db",
+  "wrongcolor": "#e01e01",
+  "footertext": "", //the text, that is going to be posted on embeds footer.
+  "footericon": "" //the icon url, that is going to be posted on embeds footer.
+}
