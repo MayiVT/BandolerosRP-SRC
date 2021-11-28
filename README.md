@@ -1,10 +1,10 @@
 
-# BandolerosRP SRC
+# RoleplayBot
 
 These project is made it to help people, have a more comfortable RP escence.
 
 
-# BandolerosRP SRC
+# RoleplayBot
 
 These project is made it to help people, have a more comfortable RP escence.
 
